@@ -2,5 +2,5 @@ Name: Ayomide Ibitola
 Matric Number: 23CG034077
 Machine Learning Algorithm Used: Random Forest Regressor
 Model persistence method used: Joblib
-Live URL of the hosted application: [INSERT LIVE URL HERE AFTER DEPLOYMENT]
-GitHub repository link: [INSERT GITHUB LINK HERE]
+Live URL of the hosted application: https://house-price-prediction-cikb.onrender.com
+GitHub repository link: https://github.com/AyoIbitola/house-price-prediction
